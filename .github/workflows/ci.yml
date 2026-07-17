@@ -99,4 +99,3 @@ jobs:
 
   deny:
     uses: tempoxyz/ci/.github/workflows/deny.yml@main
-    
